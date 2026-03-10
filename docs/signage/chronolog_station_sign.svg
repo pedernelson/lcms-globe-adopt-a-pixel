@@ -1,0 +1,10 @@
+
+<svg xmlns='http://www.w3.org/2000/svg' width='816' height='1056'>
+  <rect width='100%' height='100%' fill='white'/>
+  <text x='50' y='100' font-size='36' font-family='DejaVu Sans' font-weight='bold'>Chronolog Station</text>
+  <text x='50' y='160' font-size='20' font-family='DejaVu Sans'>Scan to contribute a fixed‑viewpoint photo and build a public time‑lapse.</text>
+  <rect x='50' y='200' width='200' height='200' fill='none' stroke='black' stroke-width='3'/>
+  <text x='50' y='430' font-size='18' font-family='DejaVu Sans'>Station URL:</text>
+  <text x='50' y='460' font-size='16' font-family='DejaVu Sans'>https://www.chronolog.io/site/RWC102</text>
+  <text x='50' y='520' font-size='16' font-family='DejaVu Sans'>• Align phone with bracket  • Keep scene clear  • Avoid blocking view</text>
+</svg>
